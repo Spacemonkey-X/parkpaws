@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ParkPaws — Amenity-first US dog park directory</title>
+  <meta name="description" content="ParkPaws helps you find dog parks by what matters: fencing, water, small-dog areas, hours, and local rules. City hubs for Austin, San Antonio, and Houston, TX.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html">Park<span>Paws</span></a>
+      <nav class="nav" aria-label="Primary">
+        <a href="#search">Search</a>
+        <a href="#cities">Cities</a>
+        <a href="dog-parks/texas/austin/index.html">Austin</a>
+        <a href="dog-parks/texas/san-antonio/index.html">San Antonio</a>
+        <a href="dog-parks/texas/houston/index.html">Houston</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <h1>Find dog parks by the amenities that matter.</h1>
+        <p class="pitch">
+          ParkPaws is an amenity-first directory of US dog parks and off-leash areas.
+          We lead with fencing, water, small-dog space, hours, and local rules — not just a name on a map.
+        </p>
+
+        <div id="search" class="search-box" role="search">
+          <label class="visually-hidden" for="loc" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">ZIP or city</label>
+          <input id="loc" type="text" name="q" placeholder="ZIP or city (e.g. 77019 or Houston, TX)" autocomplete="off" disabled aria-disabled="true">
+          <button type="button" disabled title="Search coming soon">Search</button>
+        </div>
+        <p class="search-note">Location search is a placeholder for now — browse a city hub below while we wire it up.</p>
+
+        <div class="filters" aria-label="Quick filters">
+          <span class="chip muted" title="Coming soon">Fenced</span>
+          <span class="chip muted" title="Coming soon">Water / swim</span>
+          <span class="chip muted" title="Coming soon">Small-dog area</span>
+          <a class="chip" href="dog-parks/texas/austin/index.html">Austin →</a>
+          <a class="chip" href="dog-parks/texas/san-antonio/index.html">San Antonio →</a>
+          <a class="chip" href="dog-parks/texas/houston/index.html">Houston →</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="cities">
+      <div class="wrap">
+        <h2 class="section-title">City hubs</h2>
+        <div style="display:grid;gap:1rem">
+          <a class="city-card" href="dog-parks/texas/austin/index.html">
+            <h2>Best dog parks in Austin, TX</h2>
+            <p>Official off-leash areas with fencing, water notes, hours, and algae advisories — researched from City of Austin sources.</p>
+          </a>
+          <a class="city-card" href="dog-parks/texas/san-antonio/index.html">
+            <h2>Best dog parks in San Antonio, TX</h2>
+            <p>Enclosed city dog parks with small-dog sections, water, hours, and Parks &amp; Rec rules — researched from sa.gov.</p>
+          </a>
+          <a class="city-card" href="dog-parks/texas/houston/index.html">
+            <h2>Best dog parks in Houston, TX</h2>
+            <p>HPARD and metro dog parks with fencing, ponds, small-dog runs, and dawn-to-dusk rules — researched from houstontx.gov and partners.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p><strong>ParkPaws</strong> — amenity-first US dog park directory. Pages are added by nightly publishing; amenity flags are verified from public sources or marked unknown.</p>
+      <p><a href="dog-parks/texas/austin/index.html">Austin</a> · <a href="dog-parks/texas/san-antonio/index.html">San Antonio</a> · <a href="dog-parks/texas/houston/index.html">Houston</a> · <a href="README.md">About this site</a></p>
+    </div>
+  </footer>
+</body>
+</html>
