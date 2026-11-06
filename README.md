@@ -113,4 +113,9 @@ City hubs include a **What to bring to [City] dog parks** section with category 
 (waste bags, collapsible bowl, 6 ft leash, tick/flea prevention). Links currently point at
 generic Amazon search URLs with `#affiliate-placeholder` — **do not treat them as live
 Associates tags**. Replace with tagged product URLs (or another network) before relying on
-revenue. Homepage has a short teaser linking to those `#gear` anchors.
+revenue.
+
+The homepage `#gear` section is a separate set of category search cards (waste bags,
+collapsible water bowl, portable dog water bottle, standard leash, harness, treat pouch,
+dog towel, and pet first aid kit) plus its own nav to each city’s gear section. Those
+homepage links are plain Amazon searches — **real affiliate tags are not configured**.
