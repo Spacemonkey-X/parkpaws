@@ -37,8 +37,9 @@ Last reviewed: 2026-11-06 (America/Los_Angeles).
 
 ## Park photos
 
-Images are stored under `/images/huntington-beach/` and referenced with relative paths from this hub.
-Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+Images live in `/images/huntington-beach/` and are referenced with relative paths from this hub. Full site-wide list: `/images/PHOTO-CREDITS.md`. Updated 2026-11-06 (America/Los_Angeles).
 
-- **Huntington Central Park Dog Park (Best Friend Dog Park)**: Wikimedia Commons — [File:Huntington Central Park lake.jpg](https://commons.wikimedia.org/wiki/File:Huntington_Central_Park_lake.jpg), Public domain, credit: Wikimedia Commons uploader. Shows Huntington Central Park (lake), not the dog park itself. Local: `images/huntington-beach/central-park.jpg`.
-- **Huntington Dog Beach**: Wikimedia Commons — [File:Taro the Shiba Inu at the the huntington dog beach entrance.jpg](https://commons.wikimedia.org/wiki/File:Taro_the_Shiba_Inu_at_the_the_huntington_dog_beach_entrance.jpg), CC BY 2.0, credit: Taro the Shiba Inu (Flickr). Dog Beach entrance sign. Local: `images/huntington-beach/dog-beach.jpg`.
+**park-photo** = freely licensed Wikimedia Commons photo of the park (or its host park, noted). **puppy-fallback** = free Pexels/Unsplash puppy stand-in used because no freely licensed photo of that park was found; its alt text says it is a placeholder.
+
+- **Huntington Central Park Dog Park (Best Friend Dog Park)** — park-photo: [File:Huntington_Central_Park_lake.jpg](https://commons.wikimedia.org/wiki/File:Huntington_Central_Park_lake.jpg), Public domain, uploader not stated. Huntington Central Park lake (host park). Low-res but accurate. Local: `images/huntington-beach/central-park.jpg`.
+- **Huntington Dog Beach** — park-photo: [File:HBD6.jpg](https://commons.wikimedia.org/wiki/File:HBD6.jpg), CC BY-SA 4.0, Jam9393, 2018-02-24 15:42:31. Dog Beach welcome/rules sign at the beach. Local: `images/huntington-beach/dog-beach.jpg`.

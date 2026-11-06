@@ -26,7 +26,8 @@ Last reviewed: 2026-11-06 (America/Los_Angeles).
 
 ## Park photos
 
-Images are stored under `/images/rancho-cucamonga/` and referenced with relative paths from this hub.
-Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+Images live in `/images/rancho-cucamonga/` and are referenced with relative paths from this hub. Full site-wide list: `/images/PHOTO-CREDITS.md`. Updated 2026-11-06 (America/Los_Angeles).
 
-- **The Bark at Central Park**: Wikimedia Commons — [File:Central Park, Rancho Cucamonga, California.jpg](https://commons.wikimedia.org/wiki/File:Central_Park,_Rancho_Cucamonga,_California.jpg), CC BY 2.0, credit: Ian D. Keating. Central Park entrance sign; not the dog park itself. Local: `images/rancho-cucamonga/central-park.jpg`.
+**park-photo** = freely licensed Wikimedia Commons photo of the park (or its host park, noted). **puppy-fallback** = free Pexels/Unsplash puppy stand-in used because no freely licensed photo of that park was found; its alt text says it is a placeholder.
+
+- **The Bark at Central Park** — park-photo: [File:Central_Park,_Rancho_Cucamonga,_California.jpg](https://commons.wikimedia.org/wiki/File:Central_Park,_Rancho_Cucamonga,_California.jpg), CC BY 2.0, Ian D. Keating, 2012-03-10 15:17. Central Park entrance sign (host park of The Bark, 2012). Local: `images/rancho-cucamonga/central-park.jpg`.

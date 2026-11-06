@@ -37,10 +37,11 @@ Last reviewed: 2026-11-06 (America/Los_Angeles).
 
 ## Park photos
 
-Images are stored under `/images/anaheim/` and referenced with relative paths from this hub.
-Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+Images live in `/images/anaheim/` and are referenced with relative paths from this hub. Full site-wide list: `/images/PHOTO-CREDITS.md`. Updated 2026-11-06 (America/Los_Angeles).
 
-- **Olive Hills Dog Park**: Generated placeholder SVG (`images/anaheim/olive-hills.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
-- **La Palma Dog Park**: Generated placeholder SVG (`images/anaheim/la-palma.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
-- **Maxwell Park Dog Park**: Generated placeholder SVG (`images/anaheim/maxwell.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
-- **Jacaranda Park Dog Park**: Generated placeholder SVG (`images/anaheim/jacaranda.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+**park-photo** = freely licensed Wikimedia Commons photo of the park (or its host park, noted). **puppy-fallback** = free Pexels/Unsplash puppy stand-in used because no freely licensed photo of that park was found; its alt text says it is a placeholder.
+
+- **Olive Hills Dog Park** — puppy-fallback: [https://www.pexels.com/photo/adorable-puppy-playing-on-lush-green-grass-28951641/](https://www.pexels.com/photo/adorable-puppy-playing-on-lush-green-grass-28951641/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/anaheim/olive-hills.jpg` (copy of `images/puppies/puppy-01.jpg`).
+- **La Palma Dog Park** — puppy-fallback: [https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoor-30508200/](https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoor-30508200/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/anaheim/la-palma.jpg` (copy of `images/puppies/puppy-02.jpg`).
+- **Maxwell Park Dog Park** — puppy-fallback: [https://www.pexels.com/photo/a-pomeranian-puppy-on-green-grass-field-9577728/](https://www.pexels.com/photo/a-pomeranian-puppy-on-green-grass-field-9577728/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/anaheim/maxwell.jpg` (copy of `images/puppies/puppy-03.jpg`).
+- **Jacaranda Park Dog Park** — puppy-fallback: [https://www.pexels.com/photo/close-up-shot-of-a-puppy-playing-on-grass-12538676/](https://www.pexels.com/photo/close-up-shot-of-a-puppy-playing-on-grass-12538676/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/anaheim/jacaranda.jpg` (copy of `images/puppies/puppy-04.jpg`).

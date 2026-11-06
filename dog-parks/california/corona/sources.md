@@ -31,8 +31,9 @@ Last reviewed: 2026-11-06 (America/Los_Angeles).
 
 ## Park photos
 
-Images are stored under `/images/corona/` and referenced with relative paths from this hub.
-Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+Images live in `/images/corona/` and are referenced with relative paths from this hub. Full site-wide list: `/images/PHOTO-CREDITS.md`. Updated 2026-11-06 (America/Los_Angeles).
 
-- **Butterfield Park Dog Park**: Generated placeholder SVG (`images/corona/butterfield.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
-- **Griffin Park Dog Park**: Generated placeholder SVG (`images/corona/griffin.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+**park-photo** = freely licensed Wikimedia Commons photo of the park (or its host park, noted). **puppy-fallback** = free Pexels/Unsplash puppy stand-in used because no freely licensed photo of that park was found; its alt text says it is a placeholder.
+
+- **Butterfield Park Dog Park** — puppy-fallback: [https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoors-29102287/](https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoors-29102287/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/corona/butterfield.jpg` (copy of `images/puppies/puppy-05.jpg`).
+- **Griffin Park Dog Park** — puppy-fallback: [https://www.pexels.com/photo/a-cute-dog-running-on-the-field-12538668/](https://www.pexels.com/photo/a-cute-dog-running-on-the-field-12538668/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/corona/griffin.jpg` (copy of `images/puppies/puppy-06.jpg`).

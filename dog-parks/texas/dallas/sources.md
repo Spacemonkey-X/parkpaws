@@ -44,4 +44,13 @@ Last reviewed: 2026-11-05 (America/Los_Angeles).
 
 ## Park photos
 
-Images under `/images/dallas/`. No suitable free Wikimedia Commons photos of these dog parks were found for this build; all six cards use generated placeholder SVGs labeled “Photo coming soon.” Replace when free-licensed photos are available.
+Images live in `/images/dallas/` and are referenced with relative paths from this hub. Full site-wide list: `/images/PHOTO-CREDITS.md`. Updated 2026-11-06 (America/Los_Angeles).
+
+**park-photo** = freely licensed Wikimedia Commons photo of the park (or its host park, noted). **puppy-fallback** = free Pexels/Unsplash puppy stand-in used because no freely licensed photo of that park was found; its alt text says it is a placeholder.
+
+- **Barry Annino Bark Park (Bark Park Central)** — puppy-fallback: [https://www.pexels.com/photo/labrador-welpe-spielend-20449895/](https://www.pexels.com/photo/labrador-welpe-spielend-20449895/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/dallas/barry-annino-bark-park.jpg` (copy of `images/puppies/puppy-18.jpg`).
+- **White Rock Lake Dog Park (Mockingbird Point)** — puppy-fallback: [https://www.pexels.com/photo/energetic-dog-running-on-a-sandy-beach-34065440/](https://www.pexels.com/photo/energetic-dog-running-on-a-sandy-beach-34065440/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/dallas/white-rock-lake-dog-park.jpg` (copy of `images/puppies/puppy-19.jpg`).
+- **Wagging Tail Dog Park** — puppy-fallback: [https://www.pexels.com/photo/jack-russell-terrier-running-on-beach-26202790/](https://www.pexels.com/photo/jack-russell-terrier-running-on-beach-26202790/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/dallas/wagging-tail.jpg` (copy of `images/puppies/puppy-20.jpg`).
+- **NorthBark Dog Park** — puppy-fallback: [https://www.pexels.com/photo/french-bulldog-running-on-sandy-beach-outdoors-30635752/](https://www.pexels.com/photo/french-bulldog-running-on-sandy-beach-outdoors-30635752/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/dallas/northbark.jpg` (copy of `images/puppies/puppy-21.jpg`).
+- **Crockett Dog Park** — puppy-fallback: [https://www.pexels.com/photo/a-dog-running-on-the-beach-with-a-stick-in-his-mouth-16252875/](https://www.pexels.com/photo/a-dog-running-on-the-beach-with-a-stick-in-his-mouth-16252875/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/dallas/crockett.jpg` (copy of `images/puppies/puppy-22.jpg`).
+- **Parkhill Dog Park** — puppy-fallback: [https://www.pexels.com/photo/close-up-shot-of-a-puppies-playing-on-grass-12538675/](https://www.pexels.com/photo/close-up-shot-of-a-puppies-playing-on-grass-12538675/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/dallas/parkhill.jpg` (copy of `images/puppies/puppy-23.jpg`).

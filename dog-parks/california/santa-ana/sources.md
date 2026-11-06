@@ -35,8 +35,9 @@ Last reviewed: 2026-11-06 (America/Los_Angeles).
 
 ## Park photos
 
-Images are stored under `/images/santa-ana/` and referenced with relative paths from this hub.
-Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+Images live in `/images/santa-ana/` and are referenced with relative paths from this hub. Full site-wide list: `/images/PHOTO-CREDITS.md`. Updated 2026-11-06 (America/Los_Angeles).
 
-- **Centennial Park Dog Park**: Generated placeholder SVG (`images/santa-ana/centennial.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
-- **Mabury Park Dog Park**: Generated placeholder SVG (`images/santa-ana/mabury.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+**park-photo** = freely licensed Wikimedia Commons photo of the park (or its host park, noted). **puppy-fallback** = free Pexels/Unsplash puppy stand-in used because no freely licensed photo of that park was found; its alt text says it is a placeholder.
+
+- **Centennial Park Dog Park** — puppy-fallback: [https://www.pexels.com/photo/a-dog-with-plush-toy-heart-on-ground-4932239/](https://www.pexels.com/photo/a-dog-with-plush-toy-heart-on-ground-4932239/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/santa-ana/centennial.jpg` (copy of `images/puppies/puppy-12.jpg`).
+- **Mabury Park Dog Park** — puppy-fallback: [https://www.pexels.com/photo/a-dog-playing-outdoors-with-a-toy-7766297/](https://www.pexels.com/photo/a-dog-playing-outdoors-with-a-toy-7766297/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/santa-ana/mabury.jpg` (copy of `images/puppies/puppy-13.jpg`).

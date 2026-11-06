@@ -31,9 +31,16 @@ Last reviewed: 2026-11-05 (America/Los_Angeles).
 
 ## Park photos
 
-Images under `/images/oakland/`.
+Images live in `/images/oakland/` and are referenced with relative paths from this hub. Full site-wide list: `/images/PHOTO-CREDITS.md`. Updated 2026-11-06 (America/Los_Angeles).
 
-- **Joaquin Miller**: Wikimedia — [File:Joaquin Miller Park, Oakland, CA May 2013.JPG](https://commons.wikimedia.org/wiki/File:Joaquin_Miller_Park,_Oakland,_CA_May_2013.JPG), CC BY 3.0. Local: `joaquin-miller.jpg`.
-- **Mosswood**: Wikimedia — [File:Mosswood Park 1.jpg](https://commons.wikimedia.org/wiki/File:Mosswood_Park_1.jpg), CC0. Local: `mosswood.jpg`.
-- **Estuary Park**: Wikimedia — [File:Estuary Park, Oakland (15716979509).jpg](https://commons.wikimedia.org/wiki/File:Estuary_Park,_Oakland_(15716979509).jpg), CC BY 2.0. Local: `estuary-park.jpg`.
-- **Grove Shafter, Hardy, Jefferson Square, Glen Daniel/King Estates, Park Boulevard Plaza, South Prescott**: Placeholder SVGs — replace when free-licensed photos are available.
+**park-photo** = freely licensed Wikimedia Commons photo of the park (or its host park, noted). **puppy-fallback** = free Pexels/Unsplash puppy stand-in used because no freely licensed photo of that park was found; its alt text says it is a placeholder.
+
+- **Grove Shafter Park Dog Play Area** — puppy-fallback: [https://www.pexels.com/photo/golden-retriever-puppy-playing-in-south-korean-park-37437409/](https://www.pexels.com/photo/golden-retriever-puppy-playing-in-south-korean-park-37437409/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/oakland/grove-shafter.jpg` (copy of `images/puppies/puppy-24.jpg`).
+- **Hardy Park Dog Play Area** — park-photo: [File:Rockridge-Temescal_Greenbelt_-_Hardy_Park_-_Dog_park_and_basketball_courts_(2022).jpg](https://commons.wikimedia.org/wiki/File:Rockridge-Temescal_Greenbelt_-_Hardy_Park_-_Dog_park_and_basketball_courts_(2022).jpg), CC0, Al83tito, 2022-06-18 16:15:03. Hardy Park dog park under the freeway (2022). Local: `images/oakland/hardy.jpg`.
+- **Jefferson Square Park** — puppy-fallback: [https://www.pexels.com/photo/golden-retriever-puppy-on-green-grass-field-7643236/](https://www.pexels.com/photo/golden-retriever-puppy-on-green-grass-field-7643236/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/oakland/jefferson-square.jpg` (copy of `images/puppies/puppy-25.jpg`).
+- **Joaquin Miller Park** — park-photo: [File:Joaquin_Miller_Park,_Oakland,_CA_May_2013.JPG](https://commons.wikimedia.org/wiki/File:Joaquin_Miller_Park,_Oakland,_CA_May_2013.JPG), CC BY 3.0, Jordankraemer, 2013-05-19 20:20:48. Joaquin Miller Park (2013). Local: `images/oakland/joaquin-miller.jpg`.
+- **Mosswood Park** — park-photo: [File:Mosswood_Park_1.jpg](https://commons.wikimedia.org/wiki/File:Mosswood_Park_1.jpg), CC0, Mx. Granger, 2023-07-20 15:01:43. Mosswood Park (2023). Local: `images/oakland/mosswood.jpg`.
+- **Estuary Park** — park-photo: [File:Estuary_Park,_Oakland_(15716979509).jpg](https://commons.wikimedia.org/wiki/File:Estuary_Park,_Oakland_(15716979509).jpg), CC BY 2.0, Tony Webster from Portland, Oregon, United States, 2014-09-26 07:25. Estuary Park (2014). Local: `images/oakland/estuary-park.jpg`.
+- **Glen Daniel King Estates Park** — puppy-fallback: [https://www.pexels.com/photo/pembroke-welsh-corgi-puppy-26843432/](https://www.pexels.com/photo/pembroke-welsh-corgi-puppy-26843432/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/oakland/glen-daniel-king-estates.jpg` (copy of `images/puppies/puppy-26.jpg`).
+- **Park Boulevard Plaza** — park-photo: [File:Park_Boulevard_Plaza,_Oakland,_California,_US.jpg](https://commons.wikimedia.org/wiki/File:Park_Boulevard_Plaza,_Oakland,_California,_US.jpg), CC BY-SA 4.0, Clyde Charles Brown, 2024-12-09. Park Boulevard Plaza lawn (2024). Local: `images/oakland/park-boulevard-plaza.jpg`.
+- **South Prescott Park** — puppy-fallback: [https://www.pexels.com/photo/adorable-corgi-puppy-playing-outdoors-35131633/](https://www.pexels.com/photo/adorable-corgi-puppy-playing-outdoors-35131633/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/oakland/south-prescott.jpg` (copy of `images/puppies/puppy-27.jpg`).

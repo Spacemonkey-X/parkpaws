@@ -32,9 +32,10 @@ Last reviewed: 2026-11-06 (America/Los_Angeles).
 
 ## Park photos
 
-Images are stored under `/images/riverside/` and referenced with relative paths from this hub.
-Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+Images live in `/images/riverside/` and are referenced with relative paths from this hub. Full site-wide list: `/images/PHOTO-CREDITS.md`. Updated 2026-11-06 (America/Los_Angeles).
 
-- **Carlson Bark Park**: Wikimedia Commons — [File:Carlson Park.jpg](https://commons.wikimedia.org/wiki/File:Carlson_Park.jpg), CC0, credit: Josiah.r.white. Carlson Park bell tower and Mt. Rubidoux foothill; not the dog run itself. Local: `images/riverside/carlson.jpg`.
-- **Riverwalk Dog Park**: Generated placeholder SVG (`images/riverside/riverwalk.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
-- **War Dog Memorial Park (nearby · March JPA)**: Generated placeholder SVG (`images/riverside/war-dog-memorial.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+**park-photo** = freely licensed Wikimedia Commons photo of the park (or its host park, noted). **puppy-fallback** = free Pexels/Unsplash puppy stand-in used because no freely licensed photo of that park was found; its alt text says it is a placeholder.
+
+- **Carlson Bark Park** — park-photo: [File:Carlson_Park.jpg](https://commons.wikimedia.org/wiki/File:Carlson_Park.jpg), CC0, Josiah.r.white, 2026-07-27 19:14:09. Carlson Park at the foot of Mt. Rubidoux (2026). Local: `images/riverside/carlson.jpg`.
+- **Riverwalk Dog Park** — puppy-fallback: [https://www.pexels.com/photo/photo-of-a-corgi-dog-standing-in-grass-18343914/](https://www.pexels.com/photo/photo-of-a-corgi-dog-standing-in-grass-18343914/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/riverside/riverwalk.jpg` (copy of `images/puppies/puppy-28.jpg`).
+- **War Dog Memorial Park (nearby · March JPA)** — puppy-fallback: [https://www.pexels.com/photo/playful-beagle-in-a-park-awaiting-fetch-29853385/](https://www.pexels.com/photo/playful-beagle-in-a-park-awaiting-fetch-29853385/), Pexels License (free to use). No free Commons photo of this park found. Local: `images/riverside/war-dog-memorial.jpg` (copy of `images/puppies/puppy-29.jpg`).
