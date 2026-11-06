@@ -29,6 +29,13 @@ parkpaws/
         ├── los-angeles/
         ├── san-diego/
         ├── long-beach/
+        ├── irvine/
+        ├── huntington-beach/
+        ├── anaheim/
+        ├── santa-ana/
+        ├── riverside/
+        ├── rancho-cucamonga/
+        ├── corona/
         ├── san-francisco/
         ├── oakland/
         └── san-jose/
@@ -38,7 +45,7 @@ parkpaws/
 ## Publishing
 
 Nightly publishing adds and refreshes city/park pages under `dog-parks/{state}/{city}/`.  
-Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Dallas**, **Los Angeles**, **San Diego**, **Long Beach**, **San Francisco**, **Oakland**, and **San Jose**. Subsequent cities follow the same pattern:
+Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Dallas**, **Los Angeles**, **San Diego**, **Long Beach**, Orange County (**Irvine**, **Huntington Beach**, **Anaheim**, **Santa Ana**), Inland Empire (**Riverside**, **Rancho Cucamonga**, **Corona**), **San Francisco**, **Oakland**, and **San Jose**. Subsequent cities follow the same pattern:
 
 - SEO title + H1 aimed at “best dog parks in {city}”
 - Intro with park count / permit notes from official sources
@@ -59,6 +66,13 @@ Open in a browser:
 - `/workspace/parkpaws/dog-parks/california/los-angeles/index.html`
 - `/workspace/parkpaws/dog-parks/california/san-diego/index.html`
 - `/workspace/parkpaws/dog-parks/california/long-beach/index.html`
+- `/workspace/parkpaws/dog-parks/california/irvine/index.html`
+- `/workspace/parkpaws/dog-parks/california/huntington-beach/index.html`
+- `/workspace/parkpaws/dog-parks/california/anaheim/index.html`
+- `/workspace/parkpaws/dog-parks/california/santa-ana/index.html`
+- `/workspace/parkpaws/dog-parks/california/riverside/index.html`
+- `/workspace/parkpaws/dog-parks/california/rancho-cucamonga/index.html`
+- `/workspace/parkpaws/dog-parks/california/corona/index.html`
 - `/workspace/parkpaws/dog-parks/california/san-francisco/index.html`
 - `/workspace/parkpaws/dog-parks/california/oakland/index.html`
 - `/workspace/parkpaws/dog-parks/california/san-jose/index.html`
