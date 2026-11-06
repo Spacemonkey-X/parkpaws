@@ -2,11 +2,11 @@
 
 Last updated: 2026-11-06 (America/Los_Angeles).
 
-Every park card on the 17 city hubs uses a JPG. Each image is either a **park-photo** (a freely licensed photo of that park or its host park from Wikimedia Commons) or a **puppy-fallback** (a free stock puppy photo used because no freely licensed photo of that specific park could be found). Puppy fallbacks have alt text that says they are placeholders.
+Every park card on the 23 city hubs uses a JPG. Each image is either a **park-photo** (a freely licensed photo of that park or its host park from Wikimedia Commons) or a **puppy-fallback** (a free stock puppy photo used because no freely licensed photo of that specific park could be found). Puppy fallbacks have alt text that says they are placeholders.
 
 Licensing rules used: Wikimedia Commons files only for park photos (license and author recorded below); Pexels/Unsplash only for puppy fallbacks. No Google Images, Yelp, Instagram, Tripadvisor or other copyrighted sources.
 
-Totals: 123 park cards · 53 park photos · 70 puppy fallbacks · 36 distinct puppy photos in `images/puppies/`.
+Totals: 163 park cards · 60 park photos · 103 puppy fallbacks · 36 distinct puppy photos in `images/puppies/`.
 
 ## Anaheim (`images/anaheim/`)
 
@@ -215,6 +215,78 @@ Totals: 123 park cards · 53 park photos · 70 puppy fallbacks · 36 distinct pu
 | Panther Springs Park | `panther-springs-park.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/white-siberian-husky-puppy-on-green-grass-field-3812207/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-33.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
 | New Territories Park | `new-territories-park.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-beagle-puppy-playing-with-a-ball-in-the-grass-X-tFxjjimos) | Unsplash License (free to use) | Ben Griffiths |  | Playful puppy stand-in (pool file images/puppies/puppy-34.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
 | Woodlawn Lake Park | `woodlawn-lake.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Woodlawn_Lake_Park_Pedestrian_Bridge.jpg) | CC BY 4.0 | Larry D. Moore | Taken on 7 October 2015, | Woodlawn Lake Park (2015). |
+
+## Colorado — added 2026-11-06 (America/Los_Angeles)
+
+### Denver, CO (`images/denver/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Barnum Dog Park | `barnum.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-fluffy-pomeranian-puppy-runs-in-the-grass-o_zfzMl40Wc) | Unsplash License (free to use) | Ereng hu |  | Playful puppy stand-in (pool file images/puppies/puppy-35.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Berkeley Lake Dog Park | `berkeley-lake.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Berkeley_Lake_Park.JPG) | CC BY-SA 3.0 | Jeffrey Beall | 2009-08-22 | Host park (Berkeley Lake Park); shows the lake, not the dog enclosure. Commons file: Berkeley Lake Park.JPG. |
+| Carla Madison Dog Park | `carla-madison.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-dog-jumping-to-catch-a-ball-oNBMhe5ksz4) | Unsplash License (free to use) | Joshua Patton |  | Playful puppy stand-in (pool file images/puppies/puppy-36.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Fuller Dog Park | `fuller.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-puppy-playing-on-lush-green-grass-28951641/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-01.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Green Valley Ranch East Dog Park | `green-valley-ranch-east.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoor-30508200/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-02.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Greenway Dog Park | `greenway.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-pomeranian-puppy-on-green-grass-field-9577728/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-03.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Kennedy Dog Park | `kennedy.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/close-up-shot-of-a-puppy-playing-on-grass-12538676/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-04.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Little Boxcar Dog Park | `little-boxcar.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoors-29102287/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-05.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Lowry Dog Park | `lowry.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-cute-dog-running-on-the-field-12538668/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-06.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Parkfield Dog Park | `parkfield.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-bulldog-puppy-running-outdoors-28452384/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-07.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Railyard Dog Park | `railyard.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/white-puppy-enjoying-outdoor-park-playtime-30075662/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-08.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Sanderson Gulch Dog Park | `sanderson-gulch.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/brown-and-black-short-coated-puppy-running-on-green-grass-field-9313647/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-09.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Sonny Lawson Dog Park | `sonny-lawson.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-puppy-running-on-flower-ground-4777025/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-10.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Willow Bark Dog Park | `willow-bark.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-boston-terrier-with-toy-soccer-ball-outdoors-31163191/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-11.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Zeckendorf Plaza Pilot Dog Park | `zeckendorf.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-dog-with-plush-toy-heart-on-ground-4932239/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-12.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Paco Sanchez Pop-Up Dog Park | `paco-sanchez.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-dog-playing-outdoors-with-a-toy-7766297/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-13.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Skyline Park Pop-Up Dog Park | `skyline.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/happy-poodle-at-play-in-canonsburg-park-33151969/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-14.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+
+### Colorado Springs, CO (`images/colorado-springs/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Antlers Park Downtown Dog Park | `antlers.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Antlers_Park_pavillion,_Colorado_Springs,_CO.jpg) | CC BY-SA 4.0 | Xnatedawgx | 2016-03-30 | Host park (Antlers Park pavilion); taken before the new dog park was built. Commons file: Antlers Park pavillion, Colorado Springs, CO.jpg. |
+| Rampart Dog Park | `rampart.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-dog-chewing-toy-on-grass-outdoors-37087075/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-15.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Palmer Park Dog Park | `palmer-park.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-puppies-on-ground-looking-at-camera-20865386/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-16.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Cheyenne Meadows Dog Park | `cheyenne-meadows.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-labrador-retriever-puppy-relaxing-on-grass-29145067/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-17.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Garden of the Gods Dog Run | `garden-of-the-gods.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/labrador-welpe-spielend-20449895/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-18.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Red Rock Canyon Dog Loops | `red-rock-canyon.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Red_Rock_Canyon_Open_Space_2.jpg) | CC BY-SA 4.0 | LittleT889 | 2019-09-04 | Trail in Red Rock Canyon Open Space (host open space of the dog loops). Commons file: Red Rock Canyon Open Space 2.jpg. |
+| Palmer Park Yucca Flats Dog Run | `palmer-yucca-flats.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Snow_in_Palmer_Park._Colorado_Springs,_Colorado_(52181002439).jpg) | CC BY 2.0 | mark byzewski | 2022-02-12 | Host park (Palmer Park) natural terrain; not specifically Yucca Flats. Commons file: Snow in Palmer Park. Colorado Springs, Colorado (52181002439).jpg. |
+| Bear Creek Dog Park (El Paso County) | `bear-creek.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Bear_Creek_Regional_Park_-_Bear_Dog_Park_-_trails_4.jpg) | CC BY-SA 3.0 | CaroleHenson | 2013-05-27 | Trails inside Bear Creek Dog Park. Commons file: Bear Creek Regional Park - Bear Dog Park - trails 4.jpg. |
+
+### Aurora, CO (`images/aurora/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Grandview Dog Park | `grandview.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/energetic-dog-running-on-a-sandy-beach-34065440/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-19.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Bicentennial Dog Park | `bicentennial.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/jack-russell-terrier-running-on-beach-26202790/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-20.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Singletree Dog Park | `singletree.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/french-bulldog-running-on-sandy-beach-outdoors-30635752/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-21.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Cherry Creek State Park Dog Off-Leash Area | `cherry-creek-state-park.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Cherry_Creek_State_Park.jpg) | CC BY-SA 3.0 | Wikigringo | 2014-07-01 | Grassland in Cherry Creek State Park (host park); not specifically the 12 Mile off-leash area. Commons file: Cherry Creek State Park.jpg. |
+
+### Fort Collins, CO (`images/fort-collins/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Fossil Creek Dog Park | `fossil-creek.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-dog-running-on-the-beach-with-a-stick-in-his-mouth-16252875/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-22.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Soft Gold Dog Park | `soft-gold.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/close-up-shot-of-a-puppies-playing-on-grass-12538675/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-23.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Spring Canyon Dog Park | `spring-canyon.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/golden-retriever-puppy-playing-in-south-korean-park-37437409/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-24.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Twin Silo Dog Park | `twin-silo.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/golden-retriever-puppy-on-green-grass-field-7643236/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-25.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+
+### Boulder, CO (`images/boulder/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| East Boulder Dog Park | `east-boulder.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/pembroke-welsh-corgi-puppy-26843432/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-26.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Foothills Dog Park | `foothills.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-corgi-puppy-playing-outdoors-35131633/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-27.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Valmont Dog Park | `valmont.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Valmont_Disc_Golf_Course_(43772956751).jpg) | CC0 | City of Boulder | 2018-07-31 | Host park (Valmont City Park, disc golf area). Commons file: Valmont Disc Golf Course (43772956751).jpg. |
+| Howard Heuston Off-Leash Dog Area | `howard-heuston.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/photo-of-a-corgi-dog-standing-in-grass-18343914/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-28.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+
+### Lakewood, CO (`images/lakewood/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Forsberg-Iron Spring Dog Park | `forsberg-iron-spring.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-beagle-in-a-park-awaiting-fetch-29853385/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-29.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Mountair Dog Park | `mountair.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-beagle-puppy-on-grassy-meadow-4203281/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-30.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Wright Park Dog Park | `wright.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-beagle-on-green-grass-field-8306128/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-31.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
 
 ## Puppy fallback pool (`images/puppies/`)
 
