@@ -4,6 +4,12 @@ Amenity-first static directory of US dog parks and official off-leash areas.
 
 ParkPaws pages emphasize **fencing, water, small-dog areas, hours, and local rules** over bare name+pin listings. Unknown amenities are labeled rather than invented.
 
+## Live URLs
+
+- **Primary:** https://parkpaws.vercel.app
+- **Mirror:** https://spacemonkey-x.github.io/parkpaws/
+- **Repo:** https://github.com/Spacemonkey-X/parkpaws
+
 ## Tree
 
 ```
@@ -25,27 +31,37 @@ parkpaws/
     │   └── dallas/
     │       ├── index.html
     │       └── sources.md
-    └── california/
-        ├── los-angeles/
-        ├── san-diego/
-        ├── long-beach/
-        ├── irvine/
-        ├── huntington-beach/
-        ├── anaheim/
-        ├── santa-ana/
-        ├── riverside/
-        ├── rancho-cucamonga/
-        ├── corona/
-        ├── san-francisco/
-        ├── oakland/
-        └── san-jose/
+    ├── california/
+    │   ├── los-angeles/
+    │   ├── san-diego/
+    │   ├── long-beach/
+    │   ├── irvine/
+    │   ├── huntington-beach/
+    │   ├── anaheim/
+    │   ├── santa-ana/
+    │   ├── riverside/
+    │   ├── rancho-cucamonga/
+    │   ├── corona/
+    │   ├── san-francisco/
+    │   ├── oakland/
+    │   └── san-jose/
+    │       (each: index.html + sources.md)
+    └── colorado/
+        ├── denver/
+        ├── colorado-springs/
+        ├── aurora/
+        ├── fort-collins/
+        ├── boulder/
+        └── lakewood/
             (each: index.html + sources.md)
 ```
 
 ## Publishing
 
+**Vercel** ([parkpaws.vercel.app](https://parkpaws.vercel.app)) is the primary host; **GitHub Pages** ([spacemonkey-x.github.io/parkpaws](https://spacemonkey-x.github.io/parkpaws/)) is the secondary mirror.
+
 Nightly publishing adds and refreshes city/park pages under `dog-parks/{state}/{city}/`.  
-Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Dallas**, **Los Angeles**, **San Diego**, **Long Beach**, Orange County (**Irvine**, **Huntington Beach**, **Anaheim**, **Santa Ana**), Inland Empire (**Riverside**, **Rancho Cucamonga**, **Corona**), **San Francisco**, **Oakland**, and **San Jose**. Subsequent cities follow the same pattern:
+Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Dallas**, **Los Angeles**, **San Diego**, **Long Beach**, Orange County (**Irvine**, **Huntington Beach**, **Anaheim**, **Santa Ana**), Inland Empire (**Riverside**, **Rancho Cucamonga**, **Corona**), **San Francisco**, **Oakland**, **San Jose**, and Colorado (**Denver**, **Colorado Springs**, **Aurora**, **Fort Collins**, **Boulder**, **Lakewood**). Subsequent cities follow the same pattern:
 
 - SEO title + H1 aimed at “best dog parks in {city}”
 - Intro with park count / permit notes from official sources
@@ -76,6 +92,12 @@ Open in a browser:
 - `/workspace/parkpaws/dog-parks/california/san-francisco/index.html`
 - `/workspace/parkpaws/dog-parks/california/oakland/index.html`
 - `/workspace/parkpaws/dog-parks/california/san-jose/index.html`
+- `/workspace/parkpaws/dog-parks/colorado/denver/index.html`
+- `/workspace/parkpaws/dog-parks/colorado/colorado-springs/index.html`
+- `/workspace/parkpaws/dog-parks/colorado/aurora/index.html`
+- `/workspace/parkpaws/dog-parks/colorado/fort-collins/index.html`
+- `/workspace/parkpaws/dog-parks/colorado/boulder/index.html`
+- `/workspace/parkpaws/dog-parks/colorado/lakewood/index.html`
 
 Or serve the folder with any static file server.
 
