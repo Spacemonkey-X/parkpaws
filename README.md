@@ -24,20 +24,18 @@ parkpaws/
     │       └── sources.md
     └── california/
         ├── los-angeles/
-        │   ├── index.html
-        │   └── sources.md
         ├── san-diego/
-        │   ├── index.html
-        │   └── sources.md
-        └── long-beach/
-            ├── index.html
-            └── sources.md
+        ├── long-beach/
+        ├── san-francisco/
+        ├── oakland/
+        └── san-jose/
+            (each: index.html + sources.md)
 ```
 
 ## Publishing
 
 Nightly publishing adds and refreshes city/park pages under `dog-parks/{state}/{city}/`.  
-Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Los Angeles**, **San Diego**, and **Long Beach**. Subsequent cities follow the same pattern:
+Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Los Angeles**, **San Diego**, **Long Beach**, **San Francisco**, **Oakland**, and **San Jose**. Subsequent cities follow the same pattern:
 
 - SEO title + H1 aimed at “best dog parks in {city}”
 - Intro with park count / permit notes from official sources
@@ -57,6 +55,9 @@ Open in a browser:
 - `/workspace/parkpaws/dog-parks/california/los-angeles/index.html`
 - `/workspace/parkpaws/dog-parks/california/san-diego/index.html`
 - `/workspace/parkpaws/dog-parks/california/long-beach/index.html`
+- `/workspace/parkpaws/dog-parks/california/san-francisco/index.html`
+- `/workspace/parkpaws/dog-parks/california/oakland/index.html`
+- `/workspace/parkpaws/dog-parks/california/san-jose/index.html`
 
 Or serve the folder with any static file server.
 
