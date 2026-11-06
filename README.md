@@ -12,22 +12,32 @@ parkpaws/
 ├── index.html              # Homepage (search placeholder, city hubs)
 ├── styles.css              # Shared styles
 └── dog-parks/
-    └── texas/
-        ├── austin/
-        │   ├── index.html  # Best Dog Parks in Austin, TX
+    ├── texas/
+    │   ├── austin/
+    │   │   ├── index.html
+    │   │   └── sources.md
+    │   ├── san-antonio/
+    │   │   ├── index.html
+    │   │   └── sources.md
+    │   └── houston/
+    │       ├── index.html
+    │       └── sources.md
+    └── california/
+        ├── los-angeles/
+        │   ├── index.html
         │   └── sources.md
-        ├── san-antonio/
-        │   ├── index.html  # Best Dog Parks in San Antonio, TX
+        ├── san-diego/
+        │   ├── index.html
         │   └── sources.md
-        └── houston/
-            ├── index.html  # Best Dog Parks in Houston, TX
+        └── long-beach/
+            ├── index.html
             └── sources.md
 ```
 
 ## Publishing
 
 Nightly publishing adds and refreshes city/park pages under `dog-parks/{state}/{city}/`.  
-Hand-built hubs so far: **Austin**, **San Antonio**, and **Houston**. Subsequent cities follow the same pattern:
+Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Los Angeles**, **San Diego**, and **Long Beach**. Subsequent cities follow the same pattern:
 
 - SEO title + H1 aimed at “best dog parks in {city}”
 - Intro with park count / permit notes from official sources
@@ -44,6 +54,9 @@ Open in a browser:
 - `/workspace/parkpaws/dog-parks/texas/austin/index.html`
 - `/workspace/parkpaws/dog-parks/texas/san-antonio/index.html`
 - `/workspace/parkpaws/dog-parks/texas/houston/index.html`
+- `/workspace/parkpaws/dog-parks/california/los-angeles/index.html`
+- `/workspace/parkpaws/dog-parks/california/san-diego/index.html`
+- `/workspace/parkpaws/dog-parks/california/long-beach/index.html`
 
 Or serve the folder with any static file server.
 
@@ -60,4 +73,3 @@ City hubs include a **What to bring to [City] dog parks** section with category 
 generic Amazon search URLs with `#affiliate-placeholder` — **do not treat them as live
 Associates tags**. Replace with tagged product URLs (or another network) before relying on
 revenue. Homepage has a short teaser linking to those `#gear` anchors.
-
