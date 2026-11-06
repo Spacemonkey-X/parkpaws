@@ -55,3 +55,19 @@ Researched for the first Austin city hub. Only parks and amenity claims backed b
 | Mary Moore Searight | No | Unknown | No | 5–10 | South metro |
 
 Last reviewed: 2026-11-05 (America/Los_Angeles).
+
+## Park photos
+
+Images are stored under `/images/austin/` and referenced with relative paths from this hub.
+Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+
+- **West Austin Neighborhood Park**: Generated placeholder SVG (`images/austin/west-austin-neighborhood-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Riverside Shores**: Generated placeholder SVG (`images/austin/riverside-shores.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Auditorium Shores**: Wikimedia Commons — [File:AuditoriumShoresAustinTX.JPG](https://commons.wikimedia.org/wiki/File%3AAuditoriumShoresAustinTX.JPG), Public domain, credit: WhisperToMe. Local: `images/austin/auditorium-shores.jpg`.
+- **Red Bud Isle**: Generated placeholder SVG (`images/austin/red-bud-isle.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Zilker Park — Great Lawn**: Wikimedia Commons — [File:Zilker Park 20160905150454.jpg](https://commons.wikimedia.org/wiki/File%3AZilker_Park_20160905150454.jpg), CC BY-SA 4.0, credit: Spawnzilla. Local: `images/austin/zilker-great-lawn.jpg`.
+- **Barking Springs at Zilker**: Wikimedia Commons — [File:Zilker Park 2017-01-20.jpg](https://commons.wikimedia.org/wiki/File%3AZilker_Park_2017-01-20.jpg), CC BY 2.0, credit: crockodile. Local: `images/austin/barking-springs.jpg`. Note: Photo shows Zilker Park (site of Barking Springs), not the swim area itself.
+- **Walnut Creek Metropolitan Park**: Wikimedia Commons — [File:Trail Walnut Creek Metro Park Austin Texas 2022.jpg](https://commons.wikimedia.org/wiki/File%3ATrail_Walnut_Creek_Metro_Park_Austin_Texas_2022.jpg), CC BY 4.0, credit: Larry D. Moore. Local: `images/austin/walnut-creek.jpg`.
+- **Emma Long Metropolitan Park (Turkey Creek Trail)**: Wikimedia Commons — [File:Emma Long Park Nature Trail, Austin TX.jpg](https://commons.wikimedia.org/wiki/File%3AEmma_Long_Park_Nature_Trail%2C_Austin_TX.jpg), CC0, credit: sbmeaper1. Local: `images/austin/emma-long.jpg`.
+- **Shoal Creek Greenbelt**: Wikimedia Commons — [File:Del Rio Claystone on Shoal Creek.jpg](https://commons.wikimedia.org/wiki/File%3ADel_Rio_Claystone_on_Shoal_Creek.jpg), CC BY-SA 4.0, credit: Wastrel Way. Local: `images/austin/shoal-creek.jpg`. Note: Photo shows Shoal Creek geology/banks along the greenbelt.
+- **Mary Moore Searight Metropolitan Park**: Generated placeholder SVG (`images/austin/mary-moore-searight-metropolitan-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.

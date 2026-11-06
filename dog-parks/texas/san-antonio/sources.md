@@ -60,3 +60,19 @@ Researched for the San Antonio city hub. Only parks and amenity claims backed by
 City Dog Parks page count (21) vs Directory (22) inconsistency noted on the hub page.
 
 Last reviewed: 2026-11-05 (America/Los_Angeles).
+
+## Park photos
+
+Images are stored under `/images/san-antonio/` and referenced with relative paths from this hub.
+Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+
+- **Phil Hardberger Park — West (NW Military)**: Wikimedia Commons — [File:Phil Hardberger Park 20191008 121612 (48920801427).jpg](https://commons.wikimedia.org/wiki/File%3APhil_Hardberger_Park_20191008_121612_%2848920801427%29.jpg), CC BY-SA 2.0, credit: Irid Escent. Local: `images/san-antonio/phil-hardberger-west.jpg`.
+- **Phil Hardberger Park — East (Blanco Rd)**: Wikimedia Commons — [File:Phil Hardberger Park 20191008 121935 (48920698347).jpg](https://commons.wikimedia.org/wiki/File%3APhil_Hardberger_Park_20191008_121935_%2848920698347%29.jpg), CC BY-SA 2.0, credit: Irid Escent. Local: `images/san-antonio/phil-hardberger-east.jpg`.
+- **Tom Slick Park**: Generated placeholder SVG (`images/san-antonio/tom-slick-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Maverick Park**: Generated placeholder SVG (`images/san-antonio/maverick-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Madison Square Park**: Generated placeholder SVG (`images/san-antonio/madison-square-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **McAllister Park**: Wikimedia Commons — [File:McAllister Park Field.JPG](https://commons.wikimedia.org/wiki/File%3AMcAllister_Park_Field.JPG), CC BY-SA 3.0, credit: TParis. Local: `images/san-antonio/mcallister.jpg`.
+- **Pearsall Park**: Generated placeholder SVG (`images/san-antonio/pearsall-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Panther Springs Park**: Generated placeholder SVG (`images/san-antonio/panther-springs-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **New Territories Park**: Generated placeholder SVG (`images/san-antonio/new-territories-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Woodlawn Lake Park**: Wikimedia Commons — [File:Woodlawn Lake Park Pedestrian Bridge.jpg](https://commons.wikimedia.org/wiki/File%3AWoodlawn_Lake_Park_Pedestrian_Bridge.jpg), CC BY 4.0, credit: Larry D. Moore. Local: `images/san-antonio/woodlawn-lake.jpg`.

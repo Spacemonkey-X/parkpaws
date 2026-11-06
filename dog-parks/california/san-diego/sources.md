@@ -35,3 +35,21 @@ Researched for the San Diego city hub. Parks and amenity claims are grounded in 
 Cadman, Centrum, Charles L. Lewis III Memorial Park, Dusty Rhodes, Gompers, Grape Street (posted weekend/holiday hours), Rancho Bernardo, Torrey Highlands, plus other map entries (Civita, Pacific Highlands, etc.) — candidates for a follow-up pass.
 
 Last reviewed: 2026-11-05 (America/Los_Angeles).
+
+## Park photos
+
+Images are stored under `/images/san-diego/` and referenced with relative paths from this hub.
+Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+
+- **Dog Beach (Ocean Beach)**: Wikimedia Commons — [File:Paw print-Dog Beach, San Diego - panoramio.jpg](https://commons.wikimedia.org/wiki/File%3APaw_print-Dog_Beach%2C_San_Diego_-_panoramio.jpg), CC BY-SA 3.0, credit: hakkun. Local: `images/san-diego/dog-beach.jpg`.
+- **Fiesta Island**: Wikimedia Commons — [File:Fiesta Island view.jpg](https://commons.wikimedia.org/wiki/File%3AFiesta_Island_view.jpg), CC BY-SA 4.0, credit: RightCowLeftCoast. Local: `images/san-diego/fiesta-island.jpg`.
+- **Capehart Park**: Generated placeholder SVG (`images/san-diego/capehart-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Doyle Community Park**: Generated placeholder SVG (`images/san-diego/doyle-community-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Nobel Park**: Generated placeholder SVG (`images/san-diego/nobel-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Kearny Mesa Community Park**: Generated placeholder SVG (`images/san-diego/kearny-mesa-community-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Ward Canyon Neighborhood Park**: Generated placeholder SVG (`images/san-diego/ward-canyon-neighborhood-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Rancho Peñasquitos Park**: Generated placeholder SVG (`images/san-diego/rancho-penasquitos-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Maddox Neighborhood Park**: Generated placeholder SVG (`images/san-diego/maddox-neighborhood-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Allied Gardens**: Generated placeholder SVG (`images/san-diego/allied-gardens.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Balboa Park — Nate’s Point**: Wikimedia Commons — [File:Nate's Point Dog Park.jpg](https://commons.wikimedia.org/wiki/File%3ANate%27s_Point_Dog_Park.jpg), CC BY-SA 4.0, credit: RightCowLeftCoast. Local: `images/san-diego/nates-point.jpg`.
+- **Balboa Park — Morley Field**: Wikimedia Commons — [File:Aerial - San Diego, CA - Morley Field and vicinity 01.jpg](https://commons.wikimedia.org/wiki/File%3AAerial_-_San_Diego%2C_CA_-_Morley_Field_and_vicinity_01.jpg), CC BY 3.0, credit: Joe Mabel. Local: `images/san-diego/morley-field.jpg`. Note: Aerial of Morley Field area in Balboa Park.

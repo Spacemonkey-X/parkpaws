@@ -50,3 +50,21 @@ Parks detailed on that page and used in this hub: Avondale, Buffalo Bayou (Johnn
 City inventory parks not yet carded: Avondale, Camden, Elizabeth Glover, Tanglewood, West Webster, Woodchase. County: Bill Archer, Beverly Kaufman (Katy).
 
 Last reviewed: 2026-11-05 (America/Los_Angeles).
+
+## Park photos
+
+Images are stored under `/images/houston/` and referenced with relative paths from this hub.
+Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+
+- **Johnny Steele Dog Park (Buffalo Bayou)**: Wikimedia Commons — [File:Johnny Steele Dog Park.jpg](https://commons.wikimedia.org/wiki/File%3AJohnny_Steele_Dog_Park.jpg), CC BY-SA 4.0, credit: Bry0909. Local: `images/houston/johnny-steele.jpg`.
+- **Maxey Dog Park**: Generated placeholder SVG (`images/houston/maxey-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **T.C. Jester Dog Park**: Wikimedia Commons — [File:TCJesterParkHoustonTX.JPG](https://commons.wikimedia.org/wiki/File%3ATCJesterParkHoustonTX.JPG), Public domain, credit: WhisperToMe. Local: `images/houston/tc-jester.jpg`.
+- **Nela Thomas-Brown / Waldemar Dog Park**: Generated placeholder SVG (`images/houston/nela-thomas-brown-waldemar-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Lawndale Dog Park**: Generated placeholder SVG (`images/houston/lawndale-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Joseph “Jody” Miller Dog Park (Fonde)**: Generated placeholder SVG (`images/houston/joseph-jody-miller-dog-park-fonde.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Holly Anawaty Dog Park (Market Square)**: Wikimedia Commons — [File:Market Square Park Houston.jpg](https://commons.wikimedia.org/wiki/File%3AMarket_Square_Park_Houston.jpg), CC BY-SA 3.0, credit: Ymblanter. Local: `images/houston/holly-anawaty.jpg`. Note: Photo shows Market Square Park (home of Holly Anawaty Dog Park).
+- **Levy Dog Park**: Generated placeholder SVG (`images/houston/levy-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Ervan Chew Dog Park**: Generated placeholder SVG (`images/houston/ervan-chew-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **McWilliams Dog Park (Hermann Park)**: Wikimedia Commons — [File:Hermann Park, Houston Texas.jpg](https://commons.wikimedia.org/wiki/File%3AHermann_Park%2C_Houston_Texas.jpg), CC BY-SA 4.0, credit: Zp 2298. Local: `images/houston/mcwilliams.jpg`. Note: Photo shows Hermann Park grounds near McWilliams Dog Park.
+- **Danny Jackson Family Bark Park**: Wikimedia Commons — [File:JacksonFamilyBarkParkHoustonTX.JPG](https://commons.wikimedia.org/wiki/File%3AJacksonFamilyBarkParkHoustonTX.JPG), Public domain, credit: WhisperToMe. Local: `images/houston/danny-jackson.jpg`.
+- **Millie Bush Dog Park**: Wikimedia Commons — [File:2025-09-14 14 51 42 View east down Buffalo Bayou within George Bush Park in Houston, Harris County, Texas.jpg](https://commons.wikimedia.org/wiki/File%3A2025-09-14_14_51_42_View_east_down_Buffalo_Bayou_within_George_Bush_Park_in_Houston%2C_Harris_County%2C_Texas.jpg), CC BY-SA 4.0, credit: Famartin. Local: `images/houston/millie-bush.jpg`. Note: Photo shows George Bush Park (home of Millie Bush Dog Park).

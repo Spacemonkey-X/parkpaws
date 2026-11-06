@@ -45,3 +45,22 @@ Researched for the Los Angeles city hub. Only parks on the City of Los Angeles R
 | Ross Snyder | Yes | Unknown | Unknown | Sunrise–sunset | Only South LA listing |
 
 Last reviewed: 2026-11-05 (America/Los_Angeles).
+
+## Park photos
+
+Images are stored under `/images/los-angeles/` and referenced with relative paths from this hub.
+Prefer Wikimedia Commons (or other free licenses). Placeholders are labeled “Photo coming soon” and are not photographs of the park.
+
+- **Sepulveda Basin Off-Leash Dog Park**: Wikimedia Commons — [File:Sepulveda Off-Leash Dog Park.JPG](https://commons.wikimedia.org/wiki/File%3ASepulveda_Off-Leash_Dog_Park.JPG), CC BY-SA 3.0, credit: Cbl62 (talk). Local: `images/los-angeles/sepulveda.jpg`.
+- **Laurel Canyon Dog Park**: Generated placeholder SVG (`images/los-angeles/laurel-canyon-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Griffith Park Dog Park**: Wikimedia Commons — [File:View of Griffith Park from Sunset Boulevard.jpg](https://commons.wikimedia.org/wiki/File%3AView_of_Griffith_Park_from_Sunset_Boulevard.jpg), CC BY-SA 4.0, credit: Downtowngal. Local: `images/los-angeles/griffith.jpg`. Note: Photo shows Griffith Park hillside; dog park is a fenced area within the park.
+- **Silver Lake Dog Park**: Wikimedia Commons — [File:Silver Lake Reservoir looking west 2015-10-11.jpg](https://commons.wikimedia.org/wiki/File%3ASilver_Lake_Reservoir_looking_west_2015-10-11.jpg), CC0, credit: Junkyardsparkle. Local: `images/los-angeles/silver-lake.jpg`. Note: Photo shows Silver Lake Reservoir area near the dog park.
+- **Whitnall Off-Leash Dog Park**: Generated placeholder SVG (`images/los-angeles/whitnall-off-leash-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Westminster Dog Park**: Generated placeholder SVG (`images/los-angeles/westminster-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Veterans’ Barrington Park**: Wikimedia Commons — [File:Barrington Recreation Center.jpg](https://commons.wikimedia.org/wiki/File%3ABarrington_Recreation_Center.jpg), CC0, credit: Simon Cobb. Local: `images/los-angeles/barrington.jpg`. Note: Photo shows Barrington Recreation Center / Veterans’ Barrington Park area.
+- **Hermon Park in the Arroyo Seco Dog Park**: Generated placeholder SVG (`images/los-angeles/hermon-park-in-the-arroyo-seco-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Westwood Dog Park**: Generated placeholder SVG (`images/los-angeles/westwood-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Eagle Rock Dog Park**: Generated placeholder SVG (`images/los-angeles/eagle-rock-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Glen Alla Dog Park**: Generated placeholder SVG (`images/los-angeles/glen-alla-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
+- **Runyon Canyon Dog Park**: Wikimedia Commons — [File:Runyon Canyon view to Downtown LA.jpg](https://commons.wikimedia.org/wiki/File%3ARunyon_Canyon_view_to_Downtown_LA.jpg), CC BY-SA 4.0, credit: Peter Greenberg. Local: `images/los-angeles/runyon.jpg`.
+- **Ross Snyder Dog Park**: Generated placeholder SVG (`images/los-angeles/ross-snyder-dog-park.svg`) — no suitable free Commons photo found. Replace when a free-licensed photo is available.
