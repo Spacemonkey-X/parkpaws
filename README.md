@@ -19,7 +19,10 @@ parkpaws/
     │   ├── san-antonio/
     │   │   ├── index.html
     │   │   └── sources.md
-    │   └── houston/
+    │   ├── houston/
+    │   │   ├── index.html
+    │   │   └── sources.md
+    │   └── dallas/
     │       ├── index.html
     │       └── sources.md
     └── california/
@@ -35,7 +38,7 @@ parkpaws/
 ## Publishing
 
 Nightly publishing adds and refreshes city/park pages under `dog-parks/{state}/{city}/`.  
-Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Los Angeles**, **San Diego**, **Long Beach**, **San Francisco**, **Oakland**, and **San Jose**. Subsequent cities follow the same pattern:
+Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Dallas**, **Los Angeles**, **San Diego**, **Long Beach**, **San Francisco**, **Oakland**, and **San Jose**. Subsequent cities follow the same pattern:
 
 - SEO title + H1 aimed at “best dog parks in {city}”
 - Intro with park count / permit notes from official sources
@@ -52,6 +55,7 @@ Open in a browser:
 - `/workspace/parkpaws/dog-parks/texas/austin/index.html`
 - `/workspace/parkpaws/dog-parks/texas/san-antonio/index.html`
 - `/workspace/parkpaws/dog-parks/texas/houston/index.html`
+- `/workspace/parkpaws/dog-parks/texas/dallas/index.html`
 - `/workspace/parkpaws/dog-parks/california/los-angeles/index.html`
 - `/workspace/parkpaws/dog-parks/california/san-diego/index.html`
 - `/workspace/parkpaws/dog-parks/california/long-beach/index.html`
