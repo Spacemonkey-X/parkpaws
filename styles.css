@@ -1,16 +1,25 @@
 /* ParkPaws — shared styles */
 :root {
-  --ink: #1a2332;
-  --muted: #5a6577;
-  --bg: #f7f5f1;
-  --card: #ffffff;
-  --accent: #2d6a4f;
-  --accent-soft: #d8f3dc;
-  --border: #e2ddd4;
-  --warn: #9a3412;
-  --warn-bg: #ffedd5;
+  /* Professional + playful: deep teal primary, soft coral accent, warm neutrals */
+  --ink: #1c2b2d;
+  --muted: #5c6b6e;
+  --bg: #f7f4ef;
+  --card: #fffbf7;
+  --accent: #0e6b6d;
+  --accent-soft: #d4edec;
+  --highlight: #b84f35;
+  --highlight-bright: #e07a5f;
+  --highlight-soft: #fce8e0;
+  --border: #d5ddd9;
+  --warn: #9a4a1f;
+  --warn-bg: #fde8d4;
+  --on-accent: #ffffff;
+  --accent-hover: #0a5557;
+  --highlight-ink: #a84328;
+  --map-mid: #c9e0df;
+  --map-dash: #8aadaa;
   --radius: 12px;
-  --shadow: 0 1px 3px rgba(26, 35, 50, 0.08), 0 8px 24px rgba(26, 35, 50, 0.04);
+  --shadow: 0 1px 3px rgba(28, 43, 45, 0.07), 0 8px 24px rgba(14, 107, 109, 0.06);
   --font: "Segoe UI", system-ui, -apple-system, sans-serif;
 }
 
@@ -26,8 +35,8 @@ body {
   line-height: 1.55;
 }
 
-a { color: var(--accent); }
-a:hover { text-decoration: underline; }
+a { color: var(--accent); text-underline-offset: 0.15em; }
+a:hover { color: var(--accent-hover); text-decoration: underline; }
 
 .wrap {
   width: min(1080px, calc(100% - 2rem));
@@ -111,7 +120,7 @@ a:hover { text-decoration: underline; }
 
 .search-box button {
   background: var(--accent);
-  color: #fff;
+  color: var(--on-accent);
   border: 0;
   border-radius: 8px;
   padding: 0.65rem 1.1rem;
@@ -148,7 +157,7 @@ a:hover { text-decoration: underline; }
   border: 1px solid transparent;
 }
 
-.chip:hover, .chip.active {
+.chip:hover {
   border-color: var(--accent);
   text-decoration: none;
 }
@@ -261,7 +270,7 @@ section { padding: 2rem 0; }
   flex: 0 0 180px;
   width: 180px;
   min-height: 140px;
-  background: #e8efe9;
+  background: var(--accent-soft);
   overflow: hidden;
 }
 
@@ -353,6 +362,17 @@ section { padding: 2rem 0; }
   color: var(--warn);
 }
 
+.tag.playful {
+  background: var(--highlight-soft);
+  color: var(--highlight-ink);
+}
+
+.chip.active {
+  background: var(--accent);
+  color: var(--on-accent);
+  border-color: var(--accent);
+}
+
 .notes {
   font-size: 0.9rem;
   color: var(--muted);
@@ -361,8 +381,8 @@ section { padding: 2rem 0; }
 
 /* Map placeholder */
 .map-placeholder {
-  background: linear-gradient(135deg, #e9ecef, #dee2e6);
-  border: 2px dashed #adb5bd;
+  background: linear-gradient(135deg, var(--accent-soft), var(--map-mid));
+  border: 2px dashed var(--map-dash);
   border-radius: var(--radius);
   min-height: 220px;
   display: grid;
@@ -445,7 +465,7 @@ section { padding: 2rem 0; }
 }
 
 a.gear-card:hover {
-  border-color: var(--accent);
+  border-color: var(--highlight-bright);
   text-decoration: none;
 }
 
@@ -466,7 +486,7 @@ a.gear-card:hover {
 .gear-card .gear-cta {
   font-size: 0.82rem;
   font-weight: 600;
-  color: var(--accent);
+  color: var(--highlight);
   margin-top: 0.25rem;
 }
 
