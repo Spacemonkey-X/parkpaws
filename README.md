@@ -34,7 +34,7 @@ Hand-built hubs so far: **Austin**, **San Antonio**, and **Houston**. Subsequent
 - Amenity cards or table (fenced / water / small-dog / hours / notes)
 - Map placeholder → official or embedded map later
 - FAQ grounded in public park-department rules
-- Soft affiliate section (no fake links)
+- “What to bring” affiliate-ready gear section (placeholder Amazon search URLs + FTC disclosure; **real affiliate IDs still TODO**)
 
 ## Local preview
 
@@ -52,3 +52,12 @@ Or serve the folder with any static file server.
 1. Prefer City / Parks Department pages, then reputable local lists.
 2. Do not invent addresses or amenity flags.
 3. Cite sources in `sources.md` and/or an HTML comment on the city page.
+
+## Affiliates
+
+City hubs include a **What to bring to [City] dog parks** section with category cards
+(waste bags, collapsible bowl, 6 ft leash, tick/flea prevention). Links currently point at
+generic Amazon search URLs with `#affiliate-placeholder` — **do not treat them as live
+Associates tags**. Replace with tagged product URLs (or another network) before relying on
+revenue. Homepage has a short teaser linking to those `#gear` anchors.
+

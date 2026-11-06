@@ -349,16 +349,87 @@ section { padding: 2rem 0; }
   font-size: 0.95rem;
 }
 
-/* Affiliate placeholder */
+/* Affiliate / gear */
 .affiliate {
-  border: 1px dashed var(--border);
+  border: 1px solid var(--border);
   background: var(--card);
   border-radius: var(--radius);
   padding: 1.25rem 1.4rem;
+  box-shadow: var(--shadow);
 }
 
 .affiliate h2 { margin-top: 0; }
-.affiliate p { color: var(--muted); margin-bottom: 0; }
+
+.affiliate-lead {
+  color: var(--muted);
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+.affiliate-disclosure {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin: 0 0 1.1rem;
+  font-style: italic;
+}
+
+.gear-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11.5rem, 1fr));
+  gap: 0.75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.gear-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s;
+}
+
+a.gear-card:hover {
+  border-color: var(--accent);
+  text-decoration: none;
+}
+
+.gear-card h3 {
+  margin: 0;
+  font-size: 0.98rem;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.gear-card p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+  flex: 1;
+}
+
+.gear-card .gear-cta {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-top: 0.25rem;
+}
+
+.gear-note {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 0.9rem 0 0;
+}
+
+.gear-teaser {
+  margin-top: 0.5rem;
+}
 
 /* Footer */
 .site-footer {
