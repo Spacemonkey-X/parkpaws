@@ -1,12 +1,12 @@
 # ParkPaws photo credits
 
-Last updated: 2026-11-06 (America/Los_Angeles).
+Last updated: 2026-11-07 (America/Los_Angeles).
 
-Every park card on the 23 city hubs uses a JPG. Each image is either a **park-photo** (a freely licensed photo of that park or its host park from Wikimedia Commons) or a **puppy-fallback** (a free stock puppy photo used because no freely licensed photo of that specific park could be found). Puppy fallbacks have alt text that says they are placeholders.
+Every park card on the 25 city hubs uses a JPG. Each image is either a **park-photo** (a freely licensed photo of that park or its host park from Wikimedia Commons) or a **puppy-fallback** (a free stock puppy photo used because no freely licensed photo of that specific park could be found). Puppy fallbacks have alt text that says they are placeholders.
 
 Licensing rules used: Wikimedia Commons files only for park photos (license and author recorded below); Pexels/Unsplash only for puppy fallbacks. No Google Images, Yelp, Instagram, Tripadvisor or other copyrighted sources.
 
-Totals: 163 park cards · 60 park photos · 103 puppy fallbacks · 36 distinct puppy photos in `images/puppies/`.
+Totals: 184 park cards · 60 park photos · 124 puppy fallbacks · 36 distinct puppy photos in `images/puppies/`.
 
 ## Anaheim (`images/anaheim/`)
 
@@ -150,6 +150,29 @@ Totals: 163 park cards · 60 park photos · 103 puppy fallbacks · 36 distinct p
 | Tully Dog Park | `tully.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-puppy-running-on-flower-ground-4777025/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-10.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
 | Watson Dog Park | `watson.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-boston-terrier-with-toy-soccer-ball-outdoors-31163191/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-11.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
 | Welch Dog Park | `welch.jpg` | park-photo | [link](https://commons.wikimedia.org/wiki/File:Welch_Park,_San_Jose,_California,_US.jpg) | CC BY-SA 4.0 | Clyde Charles Brown | 2025-01-05 | Welch Park entrance sign and lawn (2025). |
+
+
+## Sacramento (`images/sacramento/`)
+
+Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied from the shared `images/puppies/` pool; no freely licensed photos of these specific parks were added.
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Barandas Dog Park | `barandas.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-puppy-playing-on-lush-green-grass-28951641/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-01.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Blackbird Park Dog Parks | `blackbird.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoor-30508200/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-02.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Glenbrook Park | `glenbrook.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-pomeranian-puppy-on-green-grass-field-9577728/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-03.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Granite Regional Park | `granite-regional.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/close-up-shot-of-a-puppy-playing-on-grass-12538676/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-04.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Jacinto Creek Park | `jacinto-creek.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoors-29102287/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-05.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Lynn Robie Dog Park | `lynn-robie.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-cute-dog-running-on-the-field-12538668/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-06.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| North Natomas Regional Park | `north-natomas.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-bulldog-puppy-running-outdoors-28452384/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-07.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Olympians Park | `olympians.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/white-puppy-enjoying-outdoor-park-playtime-30075662/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-08.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Partner Park | `partner.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/brown-and-black-short-coated-puppy-running-on-green-grass-field-9313647/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-09.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Regency Community Park | `regency.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-puppy-running-on-flower-ground-4777025/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-10.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Sutter’s Landing Park | `sutters-landing.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-boston-terrier-with-toy-soccer-ball-outdoors-31163191/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-11.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Tanzanite Community Park | `tanzanite.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-dog-with-plush-toy-heart-on-ground-4932239/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-12.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Truitt Bark Park (Brooks Truitt Park) | `truitt-bark.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-dog-playing-outdoors-with-a-toy-7766297/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-13.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| University Avenue Dog Park | `university-avenue.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/happy-poodle-at-play-in-canonsburg-park-33151969/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-14.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
+| Valley Oak Dog Park | `valley-oak.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-dog-chewing-toy-on-grass-outdoors-37087075/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-15.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
 
 ## Santa Ana (`images/santa-ana/`)
 
