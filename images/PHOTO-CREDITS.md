@@ -311,6 +311,14 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Mountair Dog Park | `mountair.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-beagle-puppy-on-grassy-meadow-4203281/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-30.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
 | Wright Park Dog Park | `wright.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-beagle-on-green-grass-field-8306128/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-31.jpg); no freely licensed photo of this park found on Wikimedia Commons. |
 
+### Mesa, AZ (`images/mesa/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Eastmark Great Park Dog Park | `eastmark.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-beagle-puppy-playing-with-a-ball-in-the-grass-X-tFxjjimos) | Unsplash License (free to use) | Ben Griffiths |  | Playful puppy stand-in (pool file images/puppies/puppy-34.jpg); no freely licensed photo of this park found. |
+| Countryside Park Dog Park | `countryside.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-fluffy-pomeranian-puppy-runs-in-the-grass-o_zfzMl40Wc) | Unsplash License (free to use) | Ereng hu |  | Playful puppy stand-in (pool file images/puppies/puppy-35.jpg); no freely licensed photo of this park found. |
+| Quail Run Park Dog Park | `quail-run.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-dog-jumping-to-catch-a-ball-oNBMhe5ksz4) | Unsplash License (free to use) | Joshua Patton |  | Playful puppy stand-in (pool file images/puppies/puppy-36.jpg); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
