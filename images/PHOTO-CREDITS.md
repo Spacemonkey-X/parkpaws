@@ -319,6 +319,15 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Countryside Park Dog Park | `countryside.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-fluffy-pomeranian-puppy-runs-in-the-grass-o_zfzMl40Wc) | Unsplash License (free to use) | Ereng hu |  | Playful puppy stand-in (pool file images/puppies/puppy-35.jpg); no freely licensed photo of this park found. |
 | Quail Run Park Dog Park | `quail-run.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-dog-jumping-to-catch-a-ball-oNBMhe5ksz4) | Unsplash License (free to use) | Joshua Patton |  | Playful puppy stand-in (pool file images/puppies/puppy-36.jpg); no freely licensed photo of this park found. |
 
+### Chandler, AZ (`images/chandler/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Snedigar Sportsplex Dog Park | `snedigar.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-puppy-playing-on-lush-green-grass-28951641/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-01.jpg, reused); no freely licensed photo of this park found. |
+| Paseo Vista Dog Park | `paseo-vista.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-puppies-playing-on-grass-outdoor-30508200/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-02.jpg, reused); no freely licensed photo of this park found. |
+| Shawnee Dog Park | `shawnee.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-pomeranian-puppy-on-green-grass-field-9577728/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-03.jpg, reused); no freely licensed photo of this park found. |
+| Nozomi Dog Park | `nozomi.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/close-up-shot-of-a-puppy-playing-on-grass-12538676/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-04.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |

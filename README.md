@@ -65,7 +65,7 @@ parkpaws/
 **Vercel** ([parkpaws.vercel.app](https://parkpaws.vercel.app)) is the primary host; **GitHub Pages** ([spacemonkey-x.github.io/parkpaws](https://spacemonkey-x.github.io/parkpaws/)) is the secondary mirror.
 
 Nightly publishing adds and refreshes city/park pages under `dog-parks/{state}/{city}/`.  
-Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Dallas**, **Fort Worth**, **Los Angeles**, **San Diego**, **Long Beach**, Orange County (**Irvine**, **Huntington Beach**, **Anaheim**, **Santa Ana**), Inland Empire (**Riverside**, **Rancho Cucamonga**, **Corona**), **San Francisco**, **Oakland**, **San Jose**, **Sacramento**, and Colorado (**Denver**, **Colorado Springs**, **Aurora**, **Fort Collins**, **Boulder**, **Lakewood**), and Arizona (**Phoenix**, **Mesa**). Subsequent cities follow the same pattern:
+Hand-built hubs so far: **Austin**, **San Antonio**, **Houston**, **Dallas**, **Fort Worth**, **Los Angeles**, **San Diego**, **Long Beach**, Orange County (**Irvine**, **Huntington Beach**, **Anaheim**, **Santa Ana**), Inland Empire (**Riverside**, **Rancho Cucamonga**, **Corona**), **San Francisco**, **Oakland**, **San Jose**, **Sacramento**, and Colorado (**Denver**, **Colorado Springs**, **Aurora**, **Fort Collins**, **Boulder**, **Lakewood**), and Arizona (**Phoenix**, **Mesa**, **Chandler**). Subsequent cities follow the same pattern:
 
 - SEO title + H1 aimed at “best dog parks in {city}”
 - Intro with park count / permit notes from official sources
@@ -100,6 +100,7 @@ Open in a browser:
 - `/workspace/parkpaws/dog-parks/california/sacramento/index.html`
 - `/workspace/parkpaws/dog-parks/arizona/phoenix/index.html`
 - `/workspace/parkpaws/dog-parks/arizona/mesa/index.html`
+- `/workspace/parkpaws/dog-parks/arizona/chandler/index.html`
 - `/workspace/parkpaws/dog-parks/colorado/denver/index.html`
 - `/workspace/parkpaws/dog-parks/colorado/colorado-springs/index.html`
 - `/workspace/parkpaws/dog-parks/colorado/aurora/index.html`
