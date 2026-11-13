@@ -337,6 +337,13 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Horizon Dog Park | `horizon.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-bulldog-puppy-running-outdoors-28452384/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-07.jpg, reused); no freely licensed photo of this park found. |
 | Vista del Camino Dog Park | `vista-del-camino.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/white-puppy-enjoying-outdoor-park-playtime-30075662/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-08.jpg, reused); no freely licensed photo of this park found. |
 
+### Gilbert, AZ (`images/gilbert/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Cosmo Dog Park | `cosmo.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/brown-and-black-short-coated-puppy-running-on-green-grass-field-9313647/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-09.jpg, reused); no freely licensed photo of this park found. |
+| Crossroads Park Dog Park | `crossroads.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-puppy-running-on-flower-ground-4777025/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-10.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
