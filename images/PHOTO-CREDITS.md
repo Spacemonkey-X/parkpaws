@@ -344,6 +344,18 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Cosmo Dog Park | `cosmo.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/brown-and-black-short-coated-puppy-running-on-green-grass-field-9313647/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-09.jpg, reused); no freely licensed photo of this park found. |
 | Crossroads Park Dog Park | `crossroads.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-puppy-running-on-flower-ground-4777025/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-10.jpg, reused); no freely licensed photo of this park found. |
 
+### Tempe, AZ (`images/tempe/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Kiwanis Dog Park | `kiwanis.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-boston-terrier-with-toy-soccer-ball-outdoors-31163191/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-11.jpg, reused); no freely licensed photo of this park found. |
+| Papago Park Dog Park | `papago.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-dog-with-plush-toy-heart-on-ground-4932239/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-12.jpg, reused); no freely licensed photo of this park found. |
+| Tempe Sports Complex Dog Park | `tempe-sports-complex.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-dog-playing-outdoors-with-a-toy-7766297/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-13.jpg, reused); no freely licensed photo of this park found. |
+| Clark Park Dog Park | `clark.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/happy-poodle-at-play-in-canonsburg-park-33151969/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-14.jpg, reused); no freely licensed photo of this park found. |
+| Mitchell Park Dog Park | `mitchell.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-dog-chewing-toy-on-grass-outdoors-37087075/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-15.jpg, reused); no freely licensed photo of this park found. |
+| Jaycee Park Dog Park | `jaycee.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-puppies-on-ground-looking-at-camera-20865386/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-16.jpg, reused); no freely licensed photo of this park found. |
+| Creamery Park Dog Park | `creamery.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-labrador-retriever-puppy-relaxing-on-grass-29145067/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-17.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
