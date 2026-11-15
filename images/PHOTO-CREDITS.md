@@ -356,6 +356,15 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Jaycee Park Dog Park | `jaycee.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-puppies-on-ground-looking-at-camera-20865386/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-16.jpg, reused); no freely licensed photo of this park found. |
 | Creamery Park Dog Park | `creamery.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-labrador-retriever-puppy-relaxing-on-grass-29145067/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-17.jpg, reused); no freely licensed photo of this park found. |
 
+### Glendale, AZ (`images/glendale/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Foothills Park Dog Park | `foothills.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/labrador-welpe-spielend-20449895/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-18.jpg, reused); no freely licensed photo of this park found. |
+| Glendale Heroes Park Dog Park | `heroes.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/energetic-dog-running-on-a-sandy-beach-34065440/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-19.jpg, reused); no freely licensed photo of this park found. |
+| Northern Horizon Park Dog Park | `northern-horizon.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/jack-russell-terrier-running-on-beach-26202790/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-20.jpg, reused); no freely licensed photo of this park found. |
+| Sahuaro Ranch Park Dog Park | `sahuaro-ranch.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/french-bulldog-running-on-sandy-beach-outdoors-30635752/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-21.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
