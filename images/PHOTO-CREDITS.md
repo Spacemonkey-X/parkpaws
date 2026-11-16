@@ -365,6 +365,17 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Northern Horizon Park Dog Park | `northern-horizon.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/jack-russell-terrier-running-on-beach-26202790/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-20.jpg, reused); no freely licensed photo of this park found. |
 | Sahuaro Ranch Park Dog Park | `sahuaro-ranch.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/french-bulldog-running-on-sandy-beach-outdoors-30635752/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-21.jpg, reused); no freely licensed photo of this park found. |
 
+### Peoria, AZ (`images/peoria/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Paloma Community Park Dog Park | `paloma.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/a-dog-running-on-the-beach-with-a-stick-in-his-mouth-16252875/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-22.jpg, reused); no freely licensed photo of this park found. |
+| Pioneer Community Park Dog Park | `pioneer.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/close-up-shot-of-a-puppies-playing-on-grass-12538675/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-23.jpg, reused); no freely licensed photo of this park found. |
+| Scotland Yard Park Dog Park | `scotland-yard.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/golden-retriever-puppy-playing-in-south-korean-park-37437409/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-24.jpg, reused); no freely licensed photo of this park found. |
+| Parkridge Park Dog Park | `parkridge.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/golden-retriever-puppy-on-green-grass-field-7643236/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-25.jpg, reused); no freely licensed photo of this park found. |
+| Alta Vista Park Dog Park | `alta-vista.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/pembroke-welsh-corgi-puppy-26843432/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-26.jpg, reused); no freely licensed photo of this park found. |
+| Sunnyslope Park Dog Park | `sunnyslope.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-corgi-puppy-playing-outdoors-35131633/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-27.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
