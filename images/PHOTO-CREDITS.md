@@ -376,6 +376,13 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Alta Vista Park Dog Park | `alta-vista.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/pembroke-welsh-corgi-puppy-26843432/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-26.jpg, reused); no freely licensed photo of this park found. |
 | Sunnyslope Park Dog Park | `sunnyslope.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/adorable-corgi-puppy-playing-outdoors-35131633/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-27.jpg, reused); no freely licensed photo of this park found. |
 
+### Surprise, AZ (`images/surprise/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Surprise Community Park Dog Park | `community-park.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/photo-of-a-corgi-dog-standing-in-grass-18343914/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-28.jpg, reused); no freely licensed photo of this park found. |
+| Dick McComb Dog Park | `dick-mccomb.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-beagle-in-a-park-awaiting-fetch-29853385/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-29.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
