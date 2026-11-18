@@ -383,6 +383,13 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Surprise Community Park Dog Park | `community-park.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/photo-of-a-corgi-dog-standing-in-grass-18343914/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-28.jpg, reused); no freely licensed photo of this park found. |
 | Dick McComb Dog Park | `dick-mccomb.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-beagle-in-a-park-awaiting-fetch-29853385/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-29.jpg, reused); no freely licensed photo of this park found. |
 
+### Goodyear, AZ (`images/goodyear/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Roscoe Dog Park | `roscoe.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-beagle-puppy-on-grassy-meadow-4203281/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-30.jpg, reused); no freely licensed photo of this park found. |
+| Goodyear Community Park Dog Park | `community-park.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/white-and-gray-puppy-on-grass-3478876/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-32.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
