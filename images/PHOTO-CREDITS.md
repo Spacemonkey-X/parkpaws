@@ -390,6 +390,14 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Roscoe Dog Park | `roscoe.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/cute-beagle-puppy-on-grassy-meadow-4203281/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-30.jpg, reused); no freely licensed photo of this park found. |
 | Goodyear Community Park Dog Park | `community-park.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/white-and-gray-puppy-on-grass-3478876/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-32.jpg, reused); no freely licensed photo of this park found. |
 
+### Avondale, AZ (`images/avondale/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Friendship Park Dog Park | `friendship.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/white-siberian-husky-puppy-on-green-grass-field-3812207/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-33.jpg, reused); no freely licensed photo of this park found. |
+| Alamar Park Dog Park | `alamar.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-beagle-puppy-playing-with-a-ball-in-the-grass-X-tFxjjimos) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-34.jpg, reused); no freely licensed photo of this park found. |
+| Festival Fields Park Dog Park | `festival-fields.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-fluffy-pomeranian-puppy-runs-in-the-grass-o_zfzMl40Wc) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-35.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
