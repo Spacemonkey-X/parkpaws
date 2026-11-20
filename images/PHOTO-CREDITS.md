@@ -398,6 +398,12 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 | Alamar Park Dog Park | `alamar.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-beagle-puppy-playing-with-a-ball-in-the-grass-X-tFxjjimos) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-34.jpg, reused); no freely licensed photo of this park found. |
 | Festival Fields Park Dog Park | `festival-fields.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-fluffy-pomeranian-puppy-runs-in-the-grass-o_zfzMl40Wc) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-35.jpg, reused); no freely licensed photo of this park found. |
 
+### Buckeye, AZ (`images/buckeye/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Sundance Park Dog Park | `sundance.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-dog-jumping-to-catch-a-ball-oNBMhe5ksz4) | Unsplash License (free to use) | Joshua Patton |  | Playful puppy stand-in (pool file images/puppies/puppy-36.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
