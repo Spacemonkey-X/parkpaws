@@ -404,6 +404,12 @@ Added 2026-11-07 (America/Los_Angeles). All 15 cards use puppy fallbacks copied 
 |---|---|---|---|---|---|---|---|
 | Sundance Park Dog Park | `sundance.jpg` | puppy-fallback | [link](https://unsplash.com/photos/a-dog-jumping-to-catch-a-ball-oNBMhe5ksz4) | Unsplash License (free to use) | Joshua Patton |  | Playful puppy stand-in (pool file images/puppies/puppy-36.jpg, reused); no freely licensed photo of this park found. |
 
+### Queen Creek, AZ (`images/queen-creek/`)
+
+| Park | File | Type | Source | License | Author | Date | Notes |
+|---|---|---|---|---|---|---|---|
+| Founders' Park Dog Park | `founders.jpg` | puppy-fallback | [link](https://www.pexels.com/photo/playful-beagle-in-a-park-awaiting-fetch-29853385/) | Pexels License (free to use) | Pexels contributor |  | Playful puppy stand-in (pool file images/puppies/puppy-29.jpg, reused); no freely licensed photo of this park found. |
+
 ## Puppy fallback pool (`images/puppies/`)
 
 | File | Source | License | Photographer |
